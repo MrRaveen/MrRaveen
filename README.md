@@ -1,6 +1,6 @@
 <!-- Animated Banner (Replace with your GIF URL) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ4N3p0eXg0bWx4c3l6eGx0eDk2dG1zOGF1c3F0b2Z3bHh3cGt5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="100%">
+  <img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="coding" width="100%">
 </div>
 
 <h1 align="center"> 🚀 Hello there, I'm MrRaveen 👨💻</h1>
