@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="coding" width="100%">
 </div>
 
-<h1 align="center"> 🚀 Hello there, I'm MrRaveen 👨💻</h1>
+<h1 align="center"> 🚀 Hello there, I'm MrRaveen 💻</h1>
 <h3 align="center">🔥 Backend Developer | Cloud Enthusiast | Tech Explorer 🔥</h3>
 
 <div align="center">
