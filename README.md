@@ -14,7 +14,7 @@
 
 ### 📬 Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/raveen-jayasanka" target="_blank">
+  <a href="https://www.linkedin.com/in/raveen-jayasanka" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/raveen-jayasanka">
   </a>
   <a href="mailto:raveenjayasanka41@gmail.com">
