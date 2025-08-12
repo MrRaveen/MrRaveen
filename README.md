@@ -71,16 +71,5 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
 </div>
 <br>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="breakout-light.svg" />
-</picture>
 
 ⭐ From [MrRaveen](https://github.com/MrRaveen)
