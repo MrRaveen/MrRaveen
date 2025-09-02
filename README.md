@@ -35,6 +35,8 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Cosmos DB" width="40" height="40"/> </a>
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21~bgwhite.svg" alt="Cosmos DB" width="75" height="70"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="50" height="50"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="mextjs" width="50" height="50"/> </a>
+  <a href="https://tailwind.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Angular" width="50" height="50"/> </a>
   <br>
 
 #### 🌐 **Frontend & Mobile**
