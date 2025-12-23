@@ -36,6 +36,13 @@
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21~bgwhite.svg" alt="Cosmos DB" width="75" height="70"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="mextjs" width="50" height="50"/> </a>
   <a href="https://tailwind.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Angular" width="50" height="50"/> </a>
+  <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="50" height="50"/> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" 
+         alt="Flask" 
+         width="50" 
+         height="50"/>
+</a>
   <br>
 
 #### 🌐 **Frontend & Mobile**
