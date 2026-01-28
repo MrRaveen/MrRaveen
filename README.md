@@ -49,6 +49,12 @@
        width="50"
        height="50" />
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; background: white; padding: 5px; border-radius: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+       alt="TypeScript"
+       width="50"
+       height="50" />
+</a>
 
   <br>
 
