@@ -43,6 +43,13 @@
          width="50" 
          height="50"/>
 </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" style="display: inline-block; background: white; padding: 5px; border-radius: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"
+       alt="Rust"
+       width="50"
+       height="50" />
+</a>
+
   <br>
 
 #### 🌐 **Frontend & Mobile**
