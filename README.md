@@ -15,48 +15,157 @@
 ### 📬 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/raveen-jayasanka" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/raveen-jayasanka">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:raveenjayasanka4@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  
 </div>
 
 ---
 
-### 💻 Techinical skills
-<br>
-<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="60" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://nginx.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/> </a>
-<a href="https://azure.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Cosmos_DB.svg" alt="Cosmos DB" width="50" height="50"/> </a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Cosmos DB" width="40" height="40"/> </a>
-<a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21~bgwhite.svg" alt="Cosmos DB" width="75" height="70"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="mextjs" width="50" height="50"/> </a>
-  <a href="https://tailwind.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Angular" width="50" height="50"/> </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="50" height="50"/> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" 
-         alt="Flask" 
-         width="50" 
-         height="50"/>
-</a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" style="display: inline-block; background: white; padding: 5px; border-radius: 5px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"
-       alt="Rust"
-       width="50"
-       height="50" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; background: white; padding: 5px; border-radius: 5px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-       alt="TypeScript"
-       width="50"
-       height="50" />
-</a>
+### 💻 Technical Skills
 
-  <br>
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
+      <br>Azure
+    </td>
+    <td align="center" width="80">
+      <a href="https://getbootstrap.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40"/></a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
+      <br>C#
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+      <br>CSS3
+    </td>
+    <td align="center" width="80">
+      <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
+      <br>Dart
+    </td>
+    <td align="center" width="80">
+      <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" width="40" height="40"/></a>
+      <br>.NET
+    </td>
+    <td align="center" width="80">
+      <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+      <br>Firebase
+    </td>
+    <td align="center" width="80">
+      <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
+      <br>Flutter
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+      <br>HTML5
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+      <br>Java
+    </td>
+    <td align="center" width="80">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
+      <br>MSSQL
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+      <br>MySQL
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
+      <br>Oracle
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
+      <br>PHP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+      <br>Python
+    </td>
+    <td align="center" width="80">
+      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+      <br>React
+    </td>
+    <td align="center" width="80">
+      <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
+      <br>Spring
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
+      <br>SQLite
+    </td>
+    <td align="center" width="80">
+      <a href="https://nodejs.org/en" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/></a>
+      <br>Node.js
+    </td>
+    <td align="center" width="80">
+      <a href="https://nginx.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a>
+      <br>Nginx
+    </td>
+    <td align="center" width="80">
+      <a href="https://redis.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/></a>
+      <br>Redis
+    </td>
+    <td align="center" width="80">
+      <a href="https://azure.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Azure_Cosmos_DB.svg" width="40" height="40"/></a>
+      <br>Cosmos DB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="80">
+      <a href="https://laravel.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/></a>
+      <br>Laravel
+    </td>
+    <td align="center" width="80">
+      <a href="https://nextjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40"/></a>
+      <br>Next.js
+    </td>
+    <td align="center" width="80">
+      <a href="https://tailwindcss.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="80">
+      <a href="https://docker.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="40" height="40"/></a>
+      <br>Docker
+    </td>
+    <td align="center" width="80">
+      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="40" height="40"/></a>
+      <br>Flask
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.rust-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40" height="40"/></a>
+      <br>Rust
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"/></a>
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
+
+<br>
 
 #### 🌐 **Frontend & Mobile**
 <div align="center">
@@ -92,6 +201,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
 </div>
+
 <br>
 
-⭐ From [MrRaveen](https://github.com/MrRaveen)
+⭐ From [MrRaveen](https://github.com/MrReen)
