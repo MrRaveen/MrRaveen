@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f72e&height=220&section=header&text=Ravin%20Jayasanka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Tech%20Explorer&descSize=18&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f72e&height=220&section=header&text=Ravin%20Jayasanka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=60&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72E&vCenter=true&width=600&lines=Code+with+passion;Build+with+purpose;Innovate+endlessly;Scalable+backends+%7C+Cloud+%7C+AI+Agents)](https://git.io/typing-svg)
 
-![Open to](https://img.shields.io/badge/Open%20to-Software%20Engineer%20Roles-00F72E?style=for-the-badge&labelColor=0d1117) ![Profile Views](https://komarev.com/ghpvc/?username=MrReen&label=Profile%20Views&color=00f72e&style=for-the-badge&labelColor=0d1117)
+![Open to](https://img.shields.io/badge/Open%20to-Software%20Engineer%20Roles-00F72E?style=for-the-badge&labelColor=0d1117) 
 
 ---
 
@@ -19,14 +19,6 @@
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raveen-jayasanka) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raveenjayasanka4@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-xi-nine-cqlq06svuc.vercel.app/)
-
----
-
-## 🌐 My Portfolio
-
-[![Portfolio preview](https://api.microlink.io/?url=https%3A%2F%2Fmy-portfolio-xi-nine-cqlq06svuc.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url)](https://my-portfolio-xi-nine-cqlq06svuc.vercel.app/)
-
-[![Visit Live Site](https://img.shields.io/badge/Visit%20Live%20Site-00F72E?style=for-the-badge&logo=vercel&logoColor=black)](https://my-portfolio-xi-nine-cqlq06svuc.vercel.app/)
 
 ---
 
